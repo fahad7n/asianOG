@@ -462,10 +462,11 @@ $(function(){
         autoplay: true,
         autoplaySpeed: 3000,
         centerMode : false,
+        
 
         responsive: [{
 
-            breakpoint: 1360,
+            breakpoint: 991,
             settings: {
             slidesToShow: 3,
             slidesToScroll: 3
