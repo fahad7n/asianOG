@@ -3689,7 +3689,7 @@ button.wh-ap-btn {
 	transition: opacity 0.3s, background 0.3s, box-shadow 0.3s;
 }
 
-button.wh-ap-btn::after {
+/* button.wh-ap-btn::after {
 	content: "";
 	background-image: url("//i.imgur.com/cAS6qqn.png");
 	background-position: center center;
@@ -3699,7 +3699,7 @@ button.wh-ap-btn::after {
 	height: 100%;
 	display: block;
 	opacity: 1;
-}
+} */
 
 button.wh-ap-btn:hover {
 	opacity: 1;
